@@ -1,0 +1,80 @@
+how are you.
+i am fine.
+
+how old are you.
+I am ten years old and made by Gaurav.
+
+how are you.
+i am happy.
+
+what is your age.
+I am ten years old and made by Gaurav.
+
+who are you.
+i am the personal assistant for kerala start up mission.
+
+what is your name.
+i am rishil.
+
+are you happy today.
+yes.
+
+what is your hobby.
+i would like to help others.
+
+what are you.
+i am a chat bot.
+
+who made you.
+i was made by a great human. his name is Gaurav Shipurkar.
+
+what is your purpose.
+i was made to give information about the processes taking place inside kerala startup mission.
+
+what are they.
+we give support for startups.
+
+what kind of support.
+like incubation, technical support, funding etc..
+
+when was kerala startup mission founded.
+2006. formerly known as technology business incubator.
+
+who is the present ceo of startup mission.
+Saji Gopinath is the current ceo of kerala startup mission.
+
+where is kerala startup mission located.
+Thejaswini, technopark, thiruvananthapuram
+
+what is kerala startup mission.
+it is a nodal agency of government of kerala for entrepreneurship development and incubation activities in kerala.
+
+what are its objectives.
+the primary objectives of ksum was to undertake the planning, establishment, and management of Technology Business Incubators/ Accelerators in Kerala so as to promote technology based entrepreneurship activities and create the infrastructure and environment required for promoting high technology based business activities.
+
+what are the facilities provided there.
+good faculties, local entrepreneurs, planning and implementing industry institute linkages and networking, setting up of R & D facilities and related facilities.
+
+what is fab lab.
+FabLab is a technical prototyping platform for innovation and invention.
+
+what is future technologies lab.
+future lab is an initiative by ksum which provide necessary tools, equipment and infrastructure for research and development of emerging technologies.
+
+what are the key areas that future lab focus on.
+virtual reality and augmented reality, artificial intelligence, robotics, brain computer interface etc...
+
+what are the major activities happening in future lab.
+junior fellowship program, lab facilities, general electronic workshop.
+
+what is a junior fellowship program.
+degree pass outs with experience in cutting edge technologies are selected and given the lab infrastructure for self development and the development of the kerala startup/ innovation ecosystem.
+
+what are the major events taking place at future lab.
+future spark, future hack, future tech talks etc..
+
+what is future spark.
+its a two day introductory workshop to evangelize the upcoming technologies.
+
+how future tech talks work.
+monthly one future tech talk on any of the latest tech topics is conducted at future technologies lab
