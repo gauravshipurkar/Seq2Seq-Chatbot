@@ -1,4 +1,4 @@
-# Intent-Based-Chatbot
+# Seq-To-Seq Chatbot
 
 ## Table Of Content
 
